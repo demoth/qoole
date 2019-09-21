@@ -1,0 +1,9 @@
+// Timer.h
+// Timer Resource.
+
+#define TIMER_QV_UPDATEDRAGSEL			1
+#define TIMER_QV_SCROLLVIEW				2
+#define TIMER_QV_RENDERQVIEWS			3
+#define TIMER_QV_RENDERLOCKEDQVIEWS		4
+#define TIMER_QV_UPDATEVIEWS			5
+#define TIMER_QPROCWND_UPDATE			10

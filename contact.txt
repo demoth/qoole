@@ -1,0 +1,8 @@
+The code is all licensed under the terms of the GPL (gnu public license,
+read gnu.txt), but if you want to do something commercial and/or you
+just don't want to release the code, a separate license agreement (for
+money) is posible. To do this please contact Ed Shapiro of GX Media, his
+e-mail address is ed.shapiro@gamers-inc.com.
+
+Pablo "^Fishman" Zurita.
+Ex-Qoole programmer.
